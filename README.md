@@ -12,12 +12,12 @@ mpv --loop=inf AUD-20240102-WA0000.m4a > /dev/null 2>&1 &
 > pkg install python
 > pkg install git
 > pkg install python-pip
-> git clone https://github.com/CHICO-CP/Bot-decrypted-files-hat 
-> cd Bot-decrypted-files-hat
+> git clone https://github.com/CHICO-CP/Decode-bot.git 
+> cd 'Decode bot.py'
 pip install -r requirements.txt
 > killall mpv  
 > python "Decode bot.py"
 ```
 
-# Developer 
+### —◉ 🧸  Developer  🧸
 <a href="https://github.com/CHICO-CP"><img src="https://github.com/CHICO-CP.png" width="120" height="120" alt="CHICO-CP"/></a>
